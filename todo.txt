@@ -1,3 +1,6 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4adwTryFwcyVbl67tqUU7Ya1XTOVU4bsWxFqGJXRr+ 2047843649@qq.com
+
+
 1.23
 1. 服务类型必填检测x
 2. 服务名称显示 
@@ -23,3 +26,7 @@
 1.26
 已评价回显  创建增加userid传入
 续费允许开关  独立方法获取允许续费服务id 保留所有现有小程序逻辑 弹窗前增加检测是否为允许续费服务
+
+1.30
+1 批量导入
+2 图片介绍富文本图片样式限制
