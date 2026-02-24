@@ -41,3 +41,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4adwTryFwcyVbl67tqUU7Ya1XTOVU4bsWxFqGJXRr+
 2.24 
 1 20.245.95.25 x
 2 52.160.95.25 √
+
+腾讯云 dockerlogin 
+username：1698891 密码mq123456
