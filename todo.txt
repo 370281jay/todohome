@@ -30,3 +30,14 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4adwTryFwcyVbl67tqUU7Ya1XTOVU4bsWxFqGJXRr+
 1.30
 1 批量导入
 2 图片介绍富文本图片样式限制
+
+
+2。2 
+1. 护工端登录增加手机号获取按键
+
+
+
+
+2.24 
+1 20.245.95.25 x
+2 52.160.95.25 √
