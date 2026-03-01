@@ -44,3 +44,18 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4adwTryFwcyVbl67tqUU7Ya1XTOVU4bsWxFqGJXRr+
 
 腾讯云 dockerlogin 
 username：1698891 密码mq123456
+
+
+2.25 
+grafana打包指令
+make build-docker-full
+
+面板业务需求 
+1.  报警参数管理人员调整
+2. 房间名称和设备mac管理 
+3. 直接界面增加设置？
+
+3.1
+1. shit 
+2. 选课
+3. function 
